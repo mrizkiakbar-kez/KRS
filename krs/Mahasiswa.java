@@ -1,4 +1,3 @@
-// File: krs/Mahasiswa.java
 package krs;
 
 class Mahasiswa {

@@ -1,4 +1,3 @@
-// File: krs/MataKuliah.java
 package krs;
 
 class MataKuliah {
